@@ -22,6 +22,7 @@ client.on('ready', () => {
         game: {
             name: 'Désactiver Renix',
             type: "PLAYING",
+            url:
         }
     });
 });
