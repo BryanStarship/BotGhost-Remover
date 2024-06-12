@@ -20,9 +20,8 @@ client.on('ready', () => {
     client.user.setStatus('available')
     client.user.setPresence({
         game: {
-            name: 'SHIVA ',
+            name: 'Désactiver Renix',
             type: "PLAYING",
-            url: "https://www.youtube.com/@winteryt2599"
         }
     });
 });
