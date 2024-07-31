@@ -21,7 +21,7 @@ const express = require('express');
 const fs = require('fs');
 const path = require('path');
 const client = new Client({
-  intents: Object.keys(GatewayIntentBits).map((a) => {
+  intents: Object.keys(GatewayIntentBits).map((a) => {MTIxODMxMTAyNjkzNjc3NDcyNw.G29QGn.MQTuthpY3rMwmu-cBtJ1JI6r19ROzhWm4rjmgE
     return GatewayIntentBits[a];
   }),
 });
